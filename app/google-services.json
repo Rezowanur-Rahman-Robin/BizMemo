@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494856556965",
+    "firebase_url": "https://bizmemo-37682-default-rtdb.firebaseio.com",
+    "project_id": "bizmemo-37682",
+    "storage_bucket": "bizmemo-37682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494856556965:android:710a10023cd024256d184c",
+        "android_client_info": {
+          "package_name": "com.example.bizmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494856556965-d029psn28viptdorq41aqj0fbmjpiu1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDocCwtvTZc0yB0jRn7LXbnFr43O2Wq0iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494856556965-d029psn28viptdorq41aqj0fbmjpiu1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
